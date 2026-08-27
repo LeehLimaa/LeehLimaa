@@ -8,6 +8,8 @@
 
 Atuo com desenvolvimento de APIs RESTful performáticas, processamento assíncrono (RabbitMQ), cache (Redis), conteinerização (Docker) e armazenamento de arquivos (MinIO).
 
+---
+ 
 ### 🛠️ Stack
 
 <div style="display: inline_block"><br>
@@ -18,8 +20,3 @@ Atuo com desenvolvimento de APIs RESTful performáticas, processamento assíncro
   <img align="center" alt="Leeh-PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
 </div>
 
-##
-
-<div> 
-  <a href="https://instagram.com/leeh_de_lima_batista" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-</div>
